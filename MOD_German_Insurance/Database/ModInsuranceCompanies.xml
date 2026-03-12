@@ -521,7 +521,7 @@
             <Requirements>
                 <Requirement>
                     <ConditionType>PRESTIGE</ConditionType>
-                    <ConditionValue>90</ConditionValue>
+                    <ConditionValue>70</ConditionValue>
                     <Hidden>true</Hidden>
                 </Requirement>
             </Requirements>
@@ -627,8 +627,8 @@
             <CustomIconAssetRef>ASSET_TEX_MOD_NAME_CUSTOM_ICON</CustomIconAssetRef>
             <Requirements>
                 <Requirement>
-                    <ConditionType>PRESTIGE</ConditionType>
-                    <ConditionValue>90</ConditionValue>
+                    <ConditionType>BANK_BALANCE</ConditionType>
+                    <ConditionValue>120000</ConditionValue>
                     <Hidden>true</Hidden>
                 </Requirement>
             </Requirements>
