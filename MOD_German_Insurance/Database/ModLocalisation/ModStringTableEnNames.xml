@@ -1,0 +1,19 @@
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_GIP_NAMES">
+		<LanguageCode>en</LanguageCode>
+		<LanguageNameLocalized>English</LanguageNameLocalized>
+		<Contributors>
+			<Name>Iris S B</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>IN_COM_SI</LocID>
+				<Text>Signal Iduna Group</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+

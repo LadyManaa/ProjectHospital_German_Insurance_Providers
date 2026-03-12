@@ -1,0 +1,31 @@
+<database>
+
+    <GameDBInsuranceCompany ID="IN_COM_SI">
+        <NameLocID>IN_COM_SI</NameLocID>
+        <IconIndex>2305</IconIndex>
+
+        <Requirements>
+            <Requirement>
+                <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                <ConditionValue>40</ConditionValue>
+                <Hidden>true</Hidden>
+            </Requirement>
+        </Requirements>
+        <Objectives>
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>25</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>15550</RewardParam>
+                </Reward>
+            </Objective>
+        </Objectives>    
+        <PatientsPerDay>20</PatientsPerDay>
+        <ImmobilePerDay>0</ImmobilePerDay>
+        <CoverCostPercent>-25</CoverCostPercent>
+        <UnlockCompany>UNLOCK_SIGNAL_IDUNA</UnlockCompany>
+
+    </database>
