@@ -1,0 +1,7 @@
+﻿<Database>
+
+    <GameDBTweakableInt ID="TWEAKABLE_MAX_INSURANCE_COMPANIES">
+        <Value>32</Value>
+    </GameDBTweakableInt>
+
+</Database>
