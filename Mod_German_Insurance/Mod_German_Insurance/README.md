@@ -24,6 +24,8 @@ Project Hospital\ProjectHospital_Data\StreamingAssets\Addons\
 
 and you should see the mod name appear in the bottom left corner like this
 
+Newst Version you will find on github: https://github.com/LadyManaa/ProjectHospital_German_Insurance_Providers
+
 
 German Insurance Providers (By Iris S B)
 

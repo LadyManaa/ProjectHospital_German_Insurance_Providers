@@ -117,8 +117,6 @@
     EXPERIENCE_POINTS_FOR_CONTROLLED_DOCTORS
       -->
 
-
-<database>
     <database>
         <GameDBInsuranceCompany ID="IN_COM_SIGNALIDUNA">
             <NameLocID>IN_COM_SIGNALIDUNA_NAME</NameLocID>
@@ -520,8 +518,8 @@
             <CustomIconAssetRef>ASSET_TEX_MOD_NAME_CUSTOM_ICON</CustomIconAssetRef>
             <Requirements>
                 <Requirement>
-                    <ConditionType>PRESTIGE</ConditionType>
-                    <ConditionValue>70</ConditionValue>
+                    <ConditionType>PROFITABLE_DAYS</ConditionType>
+                    <ConditionValue>1</ConditionValue>
                     <Hidden>true</Hidden>
                 </Requirement>
             </Requirements>
